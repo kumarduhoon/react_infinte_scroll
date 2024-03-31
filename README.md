@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Infinite Scroll in React js 
+This is all about how to impalement Infinite Scroll in react js with library (react infinite scroll component)
+if you want to know more about this then go given link
+- [@react infinite scroll component](https://www.npmjs.com/package/react-infinite-scroll-component)
